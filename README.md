@@ -8,6 +8,13 @@
 ## 📌 Main 
 
 ![main](https://user-images.githubusercontent.com/86590036/143688493-f45eb512-2a38-4553-b729-7ad1b430c928.gif)
+<br/>
+
+
+## 📌 AWS 배포 
+
+> [CLICK](http://3.37.193.68:8080/happyshare-server/app/home) 
+<br/>
 
 
 
